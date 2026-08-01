@@ -1,9 +1,14 @@
 # Core Python dependencies
-pandas
 numpy
-scikit-learn
+pandas
 matplotlib
-seaborn
+opencv-python
+Pillow
+PyYAML
+scikit-learn
 jupyter
-
+tqdm
+notebook
+ipykernel
+scikit-image
 # Add project-specific dependencies here
