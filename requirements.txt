@@ -1,0 +1,9 @@
+# Core Python dependencies
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Add project-specific dependencies here
