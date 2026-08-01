@@ -1,3 +1,0 @@
-train: ./train
-val: ./Valid
-test: ./test
