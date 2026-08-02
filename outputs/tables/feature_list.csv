@@ -2,6 +2,7 @@ Feature
 image_path
 file_name
 extension
+target
 valid_image
 size_mb
 resolution
