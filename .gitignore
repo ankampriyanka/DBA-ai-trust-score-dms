@@ -1,8 +1,29 @@
-venv/
-.venv/
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
 
-data/raw/
+# Virtual environments
+venv/
+.venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated outputs
 outputs/models/
+outputs/predictions/
+outputs/metrics/
+
+# Ignore full datasets
+data/raw/full/
+
+# Keep sampled datasets
+!data/raw/samples/
+
+data/raw/adms/
+data/raw/drowsiness/
+data/raw/statefarm/
+
+# Operating system
+.DS_Store
+Thumbs.db
