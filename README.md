@@ -1,3 +1,9 @@
+> **Portfolio focus:** Doctoral Research · Trustworthy AI · Automotive AI · Driver Monitoring Systems
+>
+> Canonical doctoral research repository for the AI Trust Score work evaluating DMS trustworthiness across technical and responsible-AI dimensions.
+
+---
+
 # AI Trust Score DMS
 
 DBA - Walsh MS Capstone Project
